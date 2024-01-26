@@ -1,0 +1,1 @@
+type Pieces = [Array<string>, Array<string>]
